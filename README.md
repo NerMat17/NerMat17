@@ -112,7 +112,7 @@ Querétaro, México
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NerMat17&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerMat17&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerMat17&layout=compact&theme=dracula&hide_border=true&v=2" height="150"/>
 </div>
 
 <br/>

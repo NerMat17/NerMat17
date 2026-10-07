@@ -72,9 +72,9 @@ Querétaro, México
 
 <p align="center"><b>Infraestructura y herramientas</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
-  <img src="assets/icons/iis.svg" width="48" alt="IIS" title="IIS"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi" title="Raspberry Pi"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
+  <img src="assets/icons/iis.svg" width="48" alt="IIS (Internet Information Services)" title="IIS (Internet Information Services)"/>
   &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub"/>

@@ -45,9 +45,8 @@ Querétaro, México
 - APIs REST, lógica de negocio y validaciones con **Node.js / Express**
 - Funcionalidades en tiempo real con **WebSockets (Socket.io)** y **Redis** para pub/sub distribuido entre plantas
 - Diseño y optimización de bases de datos: consultas, índices, procedimientos almacenados y ORM en **SQL Server** (Sequelize / Tedious)
-- Integración con dispositivos industriales vía **OPC UA, KepServer y Node-RED** (PLCs, poka-yokes, Raspberry Pi, impresoras térmicas y escáneres industriales)
-- Generación de documentos y notificaciones automáticas (**PDFKit, Nodemailer, Twilio**)
-- Despliegue en **Windows Server (IIS)** y **Linux**, con servicios Node.js corriendo 24/7 (**PM2, node-windows**)
+- Integración con dispositivos industriales vía **OPC UA, KepServer y Node-RED** (PLCs, poka-yokes, Raspberry Pi, impresoras y escáneres industriales)
+- Despliegue en **Windows Server** y **Linux**, con servicios Node.js corriendo 24/7 (**PM2, Node-windows, IIS**)
 - Soporte productivo: administración de SQL Server, respaldos, mantenimiento remoto (TeamViewer)
 
 ## Tecnologías
@@ -114,7 +113,7 @@ Querétaro, México
 ## Formación y certificaciones
 
 - **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico Superior de Tamazunchale (2020 – 2024)
-- **Meta React Specialization** — Meta, Coursera (sep 2026) · React Basics y Advanced React · [Ver credencial](https://coursera.org/verify/specialization/GMAE7EES6O7S)
+- **Meta React Specialization** — Meta, Coursera (sep 2026) · [Ver credencial](https://coursera.org/verify/specialization/GMAE7EES6O7S)
 - **AWS Cloud Technical Essentials** — Amazon Web Services, Coursera · *En curso*
 - **NDG Linux Unhatched** — Cisco Networking Academy (sep 2022)
 
